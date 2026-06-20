@@ -1,5 +1,5 @@
 """
-Juego del Ahorcado 2
+Juego del Ahorcado - 
 
 Este programa lleva a codigo real el algoritmo que fue diseniado
 previamente en el diagrama de flujo (Autonomo 1).
